@@ -11,27 +11,30 @@ This project focuses on gathering, processing, and analyzing stock market data u
   - Mysql
 
 ## 🤖 Stored Procedures
-##GetTop5CompaniesByMarketCap()
-   - Get Top 5 Company by Market cap
-##GetRichestTrader()
-   - Get Richest Trader
-##GetAverageStockPriceBySector()
-   - Get Average Stock Price By Sector
-##GetTotalTransactionVolume(IN comp_id INT)
-   - Get Total Transaction Volume
-##GetTotalTransactionVolume(IN comp_id INT)
-   - Get Total Transaction Volume
-##GetMostVolatileStock()
-   - Get Most Volatile Stock
-##GetBestPerformingStock()
-   - Get Best Performing Stock
-##GetCompanyWithHighestDividendYield()
-   - Get Company with Highest Dividend Yield
+   - Get Top 5 Company by Market cap : GetTop5CompaniesByMarketCap()
+
+   - Get Richest Trader : GetTop5CompaniesByMarketCap()
+
+   - Get Average Stock Price By Sector : GetAverageStockPriceBySector()
+
+   - Get Total Transaction Volume : GetTotalTransactionVolume(IN comp_id INT)
+
+   - Get Total Transaction Volume : GetTotalTransactionVolume(IN comp_id INT)
+
+   - Get Most Volatile Stock : GetMostVolatileStock()
+
+   - Get Best Performing Stock : GetBestPerformingStock()
+
+   - Get Company with Highest Dividend Yield : GetCompanyWithHighestDividendYield()
 
 ## 📊 Views
-##CompanyMarketSummary
-   - View: Company Market Summary
-##HighPerformingStocks
-   - View: High-Performing Stocks (Price > 200)
-##StockPerformanceBySector
-   - View: Stock Performance by Sector
+   - View: Company Market Summary ##CompanyMarketSummary
+
+   - View: High-Performing Stocks (Price > 200) ##HighPerformingStocks
+
+   - View: Stock Performance by Sector ##StockPerformanceBySector
+
+## 🙋‍♂️ Contact
+For questions or collaborations, reach out to [vev34706@gmail.com] or open an issue in the repository.
+
+Happy analyzing! 📊🚀
