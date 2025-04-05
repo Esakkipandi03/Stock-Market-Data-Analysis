@@ -7,31 +7,31 @@ This project focuses on gathering, processing, and analyzing stock market data u
 - Establishing foreign key relationships.
 - Creating views and stored procedures for data analysis.
 
-🧪Tools Used
-   Mysql
+## 🧪 Tools Used
+  - Mysql
 
 ## 🤖 Stored Procedures
-1.GetTop5CompaniesByMarketCap()
-   -Get Top 5 Company by Market cap
-2.GetRichestTrader()
-   -Get Richest Trader
-3.GetAverageStockPriceBySector()
-   -Get Average Stock Price By Sector
-4.GetTotalTransactionVolume(IN comp_id INT)
-   -Get Total Transaction Volume
-5.GetTotalTransactionVolume(IN comp_id INT)
-   -Get Total Transaction Volume
-6.GetMostVolatileStock()
-   -Get Most Volatile Stock
-7.GetBestPerformingStock()
-   -Get Best Performing Stock
-8.GetCompanyWithHighestDividendYield()
-   -Get Company with Highest Dividend Yield
+###GetTop5CompaniesByMarketCap()
+   - Get Top 5 Company by Market cap
+###GetRichestTrader()
+   - Get Richest Trader
+###GetAverageStockPriceBySector()
+   - Get Average Stock Price By Sector
+###GetTotalTransactionVolume(IN comp_id INT)
+   - Get Total Transaction Volume
+###GetTotalTransactionVolume(IN comp_id INT)
+   - Get Total Transaction Volume
+###GetMostVolatileStock()
+   - Get Most Volatile Stock
+###GetBestPerformingStock()
+   - Get Best Performing Stock
+###GetCompanyWithHighestDividendYield()
+   - Get Company with Highest Dividend Yield
 
 ## 📊 Views
-1.CompanyMarketSummary
+###CompanyMarketSummary
    - View: Company Market Summary
-2.HighPerformingStocks
+###HighPerformingStocks
    - View: High-Performing Stocks (Price > 200)
-3.StockPerformanceBySector
+###StockPerformanceBySector
    - View: Stock Performance by Sector
