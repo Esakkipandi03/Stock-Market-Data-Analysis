@@ -11,27 +11,27 @@ This project focuses on gathering, processing, and analyzing stock market data u
   - Mysql
 
 ## 🤖 Stored Procedures
-###GetTop5CompaniesByMarketCap()
+##GetTop5CompaniesByMarketCap()
    - Get Top 5 Company by Market cap
-###GetRichestTrader()
+##GetRichestTrader()
    - Get Richest Trader
-###GetAverageStockPriceBySector()
+##GetAverageStockPriceBySector()
    - Get Average Stock Price By Sector
-###GetTotalTransactionVolume(IN comp_id INT)
+##GetTotalTransactionVolume(IN comp_id INT)
    - Get Total Transaction Volume
-###GetTotalTransactionVolume(IN comp_id INT)
+##GetTotalTransactionVolume(IN comp_id INT)
    - Get Total Transaction Volume
-###GetMostVolatileStock()
+##GetMostVolatileStock()
    - Get Most Volatile Stock
-###GetBestPerformingStock()
+##GetBestPerformingStock()
    - Get Best Performing Stock
-###GetCompanyWithHighestDividendYield()
+##GetCompanyWithHighestDividendYield()
    - Get Company with Highest Dividend Yield
 
 ## 📊 Views
-###CompanyMarketSummary
+##CompanyMarketSummary
    - View: Company Market Summary
-###HighPerformingStocks
+##HighPerformingStocks
    - View: High-Performing Stocks (Price > 200)
-###StockPerformanceBySector
+##StockPerformanceBySector
    - View: Stock Performance by Sector
